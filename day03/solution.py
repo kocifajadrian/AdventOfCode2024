@@ -10,7 +10,7 @@ def read_file() -> None:
             instructions.append(line.strip())
 
 
-def mul_number(string):
+def mul_number(string) -> int:
     left, right = string.split(",")
     number1 = int(left[4:])
     number2 = int(right[:-1])
