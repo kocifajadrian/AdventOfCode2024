@@ -63,5 +63,5 @@ if __name__ == "__main__":
     read_file()
     directions = [(0, -1), (0, 1), (-1, 0), (1, 0),
                   (-1, -1), (-1, 1), (1, -1), (1, 1)]
-    print(first_star())  # 2560
-    print(second_star())  # 1910
+    print(first_star())     # 2560
+    print(second_star())    # 1910
