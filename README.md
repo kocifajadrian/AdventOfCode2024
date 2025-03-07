@@ -8,3 +8,4 @@
 |  4  | [problem](https://adventofcode.com/2024/day/4) | [solution](https://github.com/kocifajadrian/AdventOfCode2024/blob/main/day04/solution.py) |
 |  5  | [problem](https://adventofcode.com/2024/day/5) | [solution](https://github.com/kocifajadrian/AdventOfCode2024/blob/main/day05/solution.py) |
 |  6  | [problem](https://adventofcode.com/2024/day/6) | [solution](https://github.com/kocifajadrian/AdventOfCode2024/blob/main/day06/solution.py) |
+|  7  | [problem](https://adventofcode.com/2024/day/7) | [solution](https://github.com/kocifajadrian/AdventOfCode2024/blob/main/day07/solution.py) |
